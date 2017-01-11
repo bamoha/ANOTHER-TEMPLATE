@@ -1,0 +1,30 @@
+body{
+	font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+header .header-content{
+	text-align: center;
+	padding: 150px 0 50px;
+	position: relative;
+}
+header .header-content .header-content-inner{
+	position: relative;
+	max-width: 500px;
+	margin: 0 auto;
+}
+section{
+	padding: 100px; 
+}
+section .talks{
+	padding: 150px;
+	position: relative;
+}
+section.contact ul.list-social li.social-facebook a {
+  background-color: #222222;
+}
+section.contact ul.list-social li.social-twitter a {
+  background-color: #222222;
+}
+section.contact ul.list-social li.social-github a {
+  background-color: #222222;
+}
